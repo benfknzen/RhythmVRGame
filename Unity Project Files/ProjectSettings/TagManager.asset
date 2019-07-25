@@ -3,8 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Activator
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -27,9 +26,9 @@ TagManager:
   - 
   - 
   - 
-  - Arrows
-  - blue
-  - red
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -41,7 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Arrows
-    uniqueID: 2448092613
     locked: 0
